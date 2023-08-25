@@ -6,7 +6,7 @@ import codecs
 # Last edit:    2022-06-24
 
 class CprDemoTool:
-    # Text ToDo
+    # Text
 
     # Job Counters:
     cnt_Set_Rec = 0  # Counts the number of records in the current Set
